@@ -1,4 +1,0 @@
-HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\DWM
-AccentColorInactive
-
-Чорный-ec000000
