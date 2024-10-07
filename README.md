@@ -1,2 +1,0 @@
-# xwallpaperlinux
-old
